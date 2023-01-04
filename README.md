@@ -1,1 +1,1 @@
-# github-actions-project
+# MLOps Zoomcamp hw notebooks and final project when the time comes
